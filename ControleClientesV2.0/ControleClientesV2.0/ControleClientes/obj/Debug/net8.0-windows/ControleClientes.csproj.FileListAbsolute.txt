@@ -1,0 +1,17 @@
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\bin\Debug\net8.0-windows\ControleClientes.exe
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\bin\Debug\net8.0-windows\ControleClientes.deps.json
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\bin\Debug\net8.0-windows\ControleClientes.runtimeconfig.json
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\bin\Debug\net8.0-windows\ControleClientes.dll
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\bin\Debug\net8.0-windows\ControleClientes.pdb
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.FormCliente.resources
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.csproj.GenerateResource.cache
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.AssemblyInfoInputs.cache
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.AssemblyInfo.cs
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.dll
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\refint\ControleClientes.dll
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.pdb
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.genruntimeconfig.cache
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ref\ControleClientes.dll
+C:\Users\huandres_schmidt\Downloads\ControleClientesV2.0\ControleClientesV2.0\ControleClientes\obj\Debug\net8.0-windows\ControleClientes.Properties.Resources.resources
